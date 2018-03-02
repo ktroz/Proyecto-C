@@ -15,7 +15,6 @@ void main(){
     max=valor1;
   else
     max=valor2;
-
 }
 
 
